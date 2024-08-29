@@ -1,0 +1,70 @@
+body{
+    background-image: url(images/Fundo.png);
+    display: flex;
+    flex-direction: column;
+}
+header
+{
+    background-image: linear-gradient(to right, rgba(204, 49, 121, 0.299), rgba(200, 40, 40, 0.225));
+    margin-left: 50px;
+    margin-right: 50px;
+} 
+.icone{
+    display: flex;
+    align-items: center;
+    margin-right: 40px;
+    margin-top: -41px;
+    
+}
+.icon{
+    margin-left: 10px;
+}
+.nomesite{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 50px;
+    font-size: 85px;
+    align-items: center;
+    display: flex;
+    color: white;
+}
+.frase{    
+    color: white;
+    margin-right: 495px;
+    font-size: 35px;
+    margin-top: -40px
+}
+.mano{
+    margin-left: 85px;
+    margin-bottom: -80px;
+}
+.inferno{
+    margin-left: 25px;
+    margin-right: 10px;
+}
+.agua{
+    color: whitesmoke;
+    font-family: sans-serif;
+    font-size: 50px;
+    margin-left: 120px;
+    margin-top: 50px;
+}
+.rectecle{
+    position: relative;
+    left: 10px;
+    background-image: linear-gradient(to bottom, rgb(255, 0, 0),rgb(3, 150, 255));
+    display: inline-block;
+    width: 230px;
+    height: 250px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.pordutos{
+    margin-left: 20px;
+}
+.pavaras{
+    margin-left: 20px;
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: whitesmoke;
+    margin-top: -15px;
+}
